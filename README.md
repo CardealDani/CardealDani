@@ -15,7 +15,9 @@
   
   ### Principais Habilidades:
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+   ![Processing](https://img.shields.io/badge/-processing-0D1117?style=for-the-badge&logo=processing&logoColor=1572B6&labelColor=0D1117&color=C6C6C6)&nbsp;
+
   
   ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -26,13 +28,14 @@
   
 
   ### Outras Tecnologias:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
   ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
-   ![Processing](https://img.shields.io/badge/-processing-0D1117?style=for-the-badge&logo=processing&logoColor=1572B6&labelColor=0D1117)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
   ### Estudando no momento:
- ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   
 <div align="center">
