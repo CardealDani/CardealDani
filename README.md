@@ -12,41 +12,56 @@
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CardealDani&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
-  
-  ### Principais Habilidades:
+   </br>
+</br>
+
+
+ ###   <h2>📃 Principais Habilidades</h2>
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![Processing](https://img.shields.io/badge/-processing-0D1117?style=for-the-badge&logo=processing&logoColor=1572B6&labelColor=0D1117&color=C6C6C6)&nbsp;
+    </br>
+</br>
    
-   
 
-  ### Sobre Python:
+  ###   <h2>🖥 Habilidades com Python</h2>
   
-  - <h2>🖥Habilidades</h2>
-  <h3>Automações:</h2><p> Automações web com Selenium e Planilhas do Excel, entre outras.</p>
-  <h3>Bibliotecas:</h2><p> Fluente em bibliotecas como: Pandas, Gspread, Selenium,</p>
- 
-
+  - <h3>Web Scraping:</h3><p> Automações web com Selenium e Planilhas do Excel, entre outras.</p>
+  - <h3>Bibliotecas:</h3><p> Fluente em bibliotecas como: Pandas, Gspread, Selenium,Tkinter, CustomTkinter, DateTime, PyAutoGui</p>
+  - <h3>Automações:</h3><p> Automações em tarefas básicas para facilitar o tempo</p>
+  - <h3>Back-End:</h3><p> Frameworks como FastApi, e Flask ( Estou estudando ainda )</p>
+ </br>
+</br>
   
 
-  ### Outras Tecnologias:
+  ###   <h2>👨‍🔧 Outras Tecnologias</h2>
 
  ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![](https://img.shields.io/badge/GoogleSheets-122E40?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-  ### Estudando no momento:
+   </br>
+</br>
+
+
+  ###   <h2>🖥 Estudando no Momento</h2>
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&textColor=0D1117)&nbsp;
  
- 
-  ### Ferramentas:
+  </br>
+</br>
+
+
+  ###   <h2>🛠 Ferramentas</h2>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;  
-  
+   </br>
+</br>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
