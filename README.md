@@ -17,25 +17,35 @@
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![Processing](https://img.shields.io/badge/-processing-0D1117?style=for-the-badge&logo=processing&logoColor=1572B6&labelColor=0D1117&color=C6C6C6)&nbsp;
+   
+   
 
+  ### Sobre Python:
   
-  ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+  - <h2>🖥Habilidades</h2>
+  <h3>Automações:</h2><p> Automações web com Selenium e Planilhas do Excel, entre outras.</p>
+  <h3>Bibliotecas:</h2><p> Fluente em bibliotecas como: Pandas, Gspread, Selenium,</p>
+ 
 
   
 
   ### Outras Tecnologias:
 
-  ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
   ### Estudando no momento:
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+ 
+  ### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;  
   
   
 <div align="center">
