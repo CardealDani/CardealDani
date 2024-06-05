@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12&height=180&section=header&text=Daniel+Cardeal&fontAlignY=35&fontSize=40&fontColor=fff&animation=twinkling&fontAlaigny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&duration=5500&font=Comfortaa&lines=Opa,+E+ae,+beleza?!;+Meu+Nome+é+Daniel+Cardeal,+e+eu+tenho+19+anos!;Eu+moro+no+Brasil,+CE;Eu+estudo+Sistemas+e+Mídias+Digitais+na+UFC;Seja+Bem+vindo(a)!+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&duration=5500&font=Comfortaa&lines=Opa,+E+ae,+beleza?!;+Meu+Nome+é+Daniel+Cardeal,+e+eu+tenho+20+anos!;Eu+moro+no+Brasil,+CE;Eu+estudo+Sistemas+e+Mídias+Digitais+na+UFC;Seja+Bem+vindo(a)!+😎)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CardealDani&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Cardeal Status github stats" /> 
